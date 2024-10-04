@@ -2,23 +2,14 @@
 
 ## Overview
 
-TODO: Write a project description
+This lab focuses on exploring different layout techniques for web design, specifically Flexbox and Grid. The objective is to learn how to create responsive designs that adapt to various screen sizes while ensuring accessibility for all users.
+
+## Running the Webpage
+
+The webpage can be run using the VSCode plugin "Live Preview" to view it on its development server.
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+- Grids: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids
+- Flex box: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
+- Floats: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats
